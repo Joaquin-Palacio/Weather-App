@@ -1,6 +1,6 @@
 :root {
   --section-overlay: rgba(0, 0, 0, 0.7);
-  --background-overlay: rgba(0, 0, 0, 0.2);
+  --background-overlay: rgba(0, 0, 0, 0.2)
 }
 
 * {
@@ -27,6 +27,7 @@
   max-width: 800px;
   margin: auto;
   height: 100%;
+
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -34,7 +35,7 @@
   padding: 1rem;
 }
 
-/* Top */
+/* Top  */
 
 .section {
   width: 100%;
